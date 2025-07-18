@@ -116,7 +116,7 @@ Dokumentacja API Swaggera można znaleść po uruchomieniu aplikacji w trybie de
 
 ## Pliki *.http
 
-Do szybkiego testowania wraz z przykładami wywołań endpointów zostały wygenerowany plik *.http. Znajduje się w /Sources/WebApp.Api/HttpApi.
+Do szybkiego testowania wraz z przykładami wywołań endpointów został wygenerowany w folderze /Sources/WebApp.Api/HttpApi.
 
 Jest to plik TransactionsController.http - dotyczy endpointów transakcji.
 
